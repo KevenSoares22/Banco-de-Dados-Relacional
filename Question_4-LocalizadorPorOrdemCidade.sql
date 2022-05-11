@@ -1,0 +1,3 @@
+select FIRST_NAME, LAST_NAME, JOB_ID, DEPARTMENT_ID
+from employees 
+where DEPARTMENT_ID=40;
